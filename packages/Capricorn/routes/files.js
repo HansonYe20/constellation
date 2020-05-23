@@ -5,7 +5,6 @@ const _ = require('lodash');
 const chalk = require('chalk');
 const path = require('path');
 const fs = require('fs');
-const { createCanvas } = require('canvas')
 
 // 有三种方法去处理文件/图片
 // 1. 直接使用res.sendFile(文件路径)

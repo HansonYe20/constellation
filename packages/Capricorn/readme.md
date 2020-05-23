@@ -29,7 +29,11 @@
   ```
   http://localhost:3000/
   ```
-5. 返回静态文件, 可以在/public文件夹下配置
+5. 返回静态服务文件内容, 可以在/public文件夹下配置
   ```
   http://localhost:3000/static/images/testImges.jpg
+  ```
+6. 返回文件
+  ```
+  localhost:3000/file/
   ```
